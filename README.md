@@ -1,6 +1,6 @@
 👋
 
-Me chamo Daiana, mas costumam me chamar de Day, sou programadora Front End e moro na região metrolpolitana de Belo Horizonte, estudo desenvolvimento de sistemas no Senai-BH, presencial e faço um curso de programação pelo Dev Club, uma grande rede de ensino remoto que se envolve em ensinar sobre várias linguagens de programação.
+Me chamo Daiana, mas costumam me chamar de Day, sou programadora Front End e moro na região metrolpolitana de Belo Horizonte, estudo desenvolvimento de sistemas na Proz, presencial e faço um curso de programação pelo Dev Club e Udemy,  grandes redes de ensino remoto que se envolve em ensinar sobre várias linguagens de programação. Já tenho alguns trabalhinhos que aos poucos venho trazendo aqui.
 
 <br>
 
